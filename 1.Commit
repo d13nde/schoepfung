@@ -1,0 +1,4 @@
+Und Gott sprach: *git add .*
+Und Gott sah, dass es Dateien in der *staging-area* gab; da schied Gott das *workingdir* vom *headpointer*.
+Und Gott setzte das *workingdir* auf *dirty*, und den *headpointer* auf *origin/master*.
+*git commit* und *git push*: der erste Commit.
